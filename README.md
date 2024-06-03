@@ -18,8 +18,8 @@ Here are some ideas to get you started:
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxoa3dmYjBieHZxdDQzb3E4cGJxOG5kaTAxd2piZ3M4dTJieGFpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.webp" width="200"/>
 </div>
 
-<div id="badges">
-  <a href="linkedin.com">
+<div id="badges" align="center">
+  <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
