@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue" width="100"/>
 </div>
-https://img.shields.io/badge/LinkedIn-blue](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
