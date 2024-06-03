@@ -63,4 +63,4 @@ Junior C++ developer.
 
   ---
 
- 
+ [![GitHub Streak](https://streak-stats.demolab.com?yuriykornienko&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
