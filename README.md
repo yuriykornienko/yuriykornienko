@@ -61,3 +61,7 @@ I am a junior C++ developer.
 - Multithreading
 - Алгоритмы и структуры данных
 
+  ---
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?uyuriykornienko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
