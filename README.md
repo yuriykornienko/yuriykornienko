@@ -49,7 +49,7 @@ I am a junior C++ developer.
 
 - ---
 
-### :hammer_and_wrench: Languages and Tools :
+ Languages and Tools :
 - C++
 - MV Studio
 
