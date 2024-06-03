@@ -49,7 +49,7 @@ I am a junior C++ developer.
 
 - ---
 
-### : Languages and Tools :
+###  Languages and Tools :
 - C++
-- MV Studio
+- MV Studio 2022
 
