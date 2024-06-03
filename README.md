@@ -40,11 +40,6 @@ Here are some ideas to get you started:
 ### :man_technologist: Обо мне :
 Junior C++ developer. 
 Самостоятельно изучил С++. 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
-
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
 
 - ---
 
