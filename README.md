@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 ---
 
-### :man_technologist: About Me :
-I am a junior C++ developer. 
+### :man_technologist: Обо мне :
+Junior C++ developer. 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -49,7 +49,7 @@ I am a junior C++ developer.
 
 - ---
 
-###  Languages and Tools :
+###  Технологии :
 - C++
 - MV Studio 2022
 - Git
