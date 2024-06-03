@@ -24,10 +24,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://t.me/CheGuevara1928">
     <img src="https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url" >
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+
 </div>
 
 <h1><div id="badges" align="center">
