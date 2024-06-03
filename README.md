@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a junior C++ developer. 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
