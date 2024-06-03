@@ -18,6 +18,6 @@ Here are some ideas to get you started:
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxoa3dmYjBieHZxdDQzb3E4cGJxOG5kaTAxd2piZ3M4dTJieGFpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.webp" width="200"/>
 </div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://img.shields.io/badge/LinkedIn-blue](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue" width="100"/>
 </div>
 https://img.shields.io/badge/LinkedIn-blue](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
