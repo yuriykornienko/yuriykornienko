@@ -52,4 +52,11 @@ I am a junior C++ developer.
 ###  Languages and Tools :
 - C++
 - MV Studio 2022
+- Dit
+- Boost
+- Networking
+- MySQL
+- Linux
+- STL
+- Алгоритмы и структуры данных
 
