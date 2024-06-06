@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 <div id="badges" align="center">
   
-  <a href="www.linkedin.com/in/yuriy-kornienko-91b337312"/>
-     <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Telegram&logoColor=white)]" width="102.5"/ >
+ 
+  <a href="www.linkedin.com/in/yuriy-kornienko-91b337312">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/CheGuevara1928">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)]" width="111"/ >
