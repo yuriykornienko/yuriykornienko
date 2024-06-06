@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 for-the-badge alt="LinkedIn Badge
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/yuriy-kornienko-91b337312">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="111"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://t.me/CheGuevara1928">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)]" width="111"/ >
