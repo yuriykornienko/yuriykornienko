@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   
  
   <a href="www.linkedin.com/in/yuriy-kornienko-91b337312">
+   
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" width="111" />
   </a>
   <a href="https://t.me/CheGuevara1928">
