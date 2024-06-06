@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align="center">
-  <a href="https://linkedin.com">
+  <a href="www.linkedin.com/in/yuriy-kornienko-91b337312">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/CheGuevara1928">
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: Обо мне :
-Junior C++ developer. 
+C++ developer. 
 
 Самостоятельно изучил С++. 
 Интересуют направления - много поточность, сетевое и высоконагруженные программы. В свободное время продолжаю изучение библиотек и фреймворков. Сейчас в стадии реализации проект сетевой игры. В данный момент ищу возможность присоединиться к команде, где смогу развиваться и внести свой вклад в создание высококлассного продукта.
