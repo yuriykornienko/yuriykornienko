@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   </a>
   <a href="https://t.me/CheGuevara1928">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)]" width="111"/ >
-
+  </a>
 </div>
 
 <h1><div id="badges" align="center">
