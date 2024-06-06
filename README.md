@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxoa3dmYjBieHZxdDQzb3E4cGJxOG5kaTAxd2piZ3M4dTJieGFpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.webp" width="200"/>
 </div>
-for-the-badge
+for-the-badge alt="LinkedIn Badge
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/yuriy-kornienko-91b337312">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="111"/>
   </a>
   <a href="https://t.me/CheGuevara1928">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)]" width="111"/ >
