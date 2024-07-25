@@ -33,7 +33,6 @@ C++ developer.
 
 ###  Технологии :
 - C++
-- MV Studio 2022
 - Git
 - Boost
 - Networking
