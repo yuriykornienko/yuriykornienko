@@ -33,12 +33,12 @@ C++ developer.
 
 ###  Технологии :
 - C++
-- Git
-- Boost
-- Networking
 - MySQL
-- Linux
+- Boost
 - STL
+- Linux
+- Git
+- Networking
 - Multithreading
 - Алгоритмы и структуры данных
 
